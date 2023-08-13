@@ -30,3 +30,15 @@ After that, you can run the application with
 ```
   php artisan serve
 ```
+
+And run the unit tests with
+
+```
+  php artisan test
+```
+
+If you are using the ngrok hosted version, log in with the following credentials:
+```
+  root@buzzvel.test
+  bob123456
+```
