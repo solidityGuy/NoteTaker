@@ -1,8 +1,6 @@
 # Laravel Task List app
 
-C3App - version with authentication and authorization, a NIST CSF questionnaire and a reports/project suggestion page.
-
-Risks/vulnerabilities and confirmation have their own page, but currently unlinked from the flow of the app and maintained for future integration.
+A Laravel note taking app which uses Blade for the frontend.
 
 ## Dependencies
 
